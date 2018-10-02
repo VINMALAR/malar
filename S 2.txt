@@ -1,0 +1,27 @@
+The matlab code to solve the system of linear equations:
+ syms x y z
+eqn1 = -1*x -5*y + 3*z == 4;
+eqn2 = -2*x -7*y == 5;
+eqn3 = -1*x -4*y +1*z == 3;
+>> [A,B] = equationsToMatrix([eqn1,eqn2,eqn3],[x,y,z])
+ 
+A =
+ 
+[ -1, -5, 3]
+[ -2, -7, 0]
+[ -1, -4, 1]
+ 
+ 
+B =
+ 
+ 4
+ 5
+ 3
+ 
+>> X = linsolve(A,B)
+
+ X =
+ 
+  1
+ -1
+  0
