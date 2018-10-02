@@ -1,0 +1,4 @@
+Sensor Sensitivity:Sensitivity is how fast or high the output changes in response to the change in the concentration or level of the input quantity or parameter.
+Eg:consider a resistive gas sensor then sensitivity can be defined as what is the % change is resistance with reference to the change in the input gas concenration.
+Sensor Selectivity:It is the ability of the sensor as how well it can distuinguish the response from anyother (or) adjacent inputs.
+Eg:Consider an O2 sensor ,if it is designed for oxygen then how well will it respond to oxygen in the presence of other gases.

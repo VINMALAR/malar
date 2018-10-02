@@ -1,0 +1,5 @@
+It is a measure of the rate of decrease in the intensity of electromagnetic radiation (x-rays or gamma rays) as it passes through a given substance(matter) the fraction of incident radiant energy absorbed per unit mass or thickness of an absorber.
+I=Io exp(-u*t)
+where u is absorption coefficient
+I is (reduced)intensity
+Io is incident intensity 

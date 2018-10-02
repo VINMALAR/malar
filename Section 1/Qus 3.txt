@@ -1,0 +1,42 @@
+The image processing technique is used to enhance raw images received from cameras(or)sensors by removing noise and any kind of irregularities.
+The image classification carries the image processing step further and attempts to replace the visual interpretation step with quantitative decision making.
+The image classification techniques are
+                        1.Support vector machines
+                        2.Spectral-Spatial method
+                        3.Pixel-wise method
+                        4.Spectral band ratios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

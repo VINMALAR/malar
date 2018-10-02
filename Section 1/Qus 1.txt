@@ -1,0 +1,5 @@
+The Modulation Transfer Function(MTF) describes how computer processing can be used to decrease (or) increase the modulation in digital image.
+The methods available for measuring the mtf is
+                            1.Slanted edge method
+                            2.Log frequency
+                            3.Log f-contrast

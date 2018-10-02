@@ -1,0 +1,10 @@
+The visible spectrum of light in nm is:
+                    1.violet (380-450)nm
+                    2.blue(450-495)nm
+                    3.green-(495-570)nm
+                    4.yellow-(570-590)nm
+                    5.orange-(590-620)nm
+                    6.red-(620-750)nm
+Images can be formed by sensing electromagnetic radiation and it is converted to standard numerical form to make it amenable to computer analysis.
+It includes a camera with lenses and a radiation sensor(CCD) which collects and counts the photoelectrons freed from a silicon layer.The digitization includes dividing an image into pixels and use integer values to reperesent brightness.
+This integer values are saved in a computer with a special format for later processing or processed through algorithms implemented in hardware or software. 
