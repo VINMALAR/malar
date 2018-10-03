@@ -1,0 +1,7 @@
+Frame a questionnaire in such a way that it should;
+                1.State the information require
+                2.State the kind of interviewing technique
+                3.Decide the matter (or)content of individual questions
+                4.overcome the respondent's inability and unwillingness to answer
+                5.Determine the question language (or)phrasing
+                6.contain the question in proper manner
